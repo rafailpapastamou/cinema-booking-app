@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- List of admins -->
+    <TextView
+        android:id="@+id/tvAdmins"
+        android:text="@string/admins"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center" />
+
+
+    <ListView
+        android:id="@+id/lvAdmins"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvAdmins"
+        android:scrollbars="vertical" />
+
+    <!-- List of employees -->
+    <TextView
+        android:id="@+id/tvEmployees"
+        android:text="@string/employees"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lvAdmins"
+        android:gravity="center" />
+
+    <ListView
+        android:id="@+id/lvEmployees"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvEmployees"
+        android:scrollbars="vertical" />
+
+    <!-- List of users -->
+    <TextView
+        android:id="@+id/tvUsers"
+        android:text="@string/users"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lvEmployees"
+        android:gravity="center" />
+
+    <ListView
+        android:id="@+id/lvUsers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvUsers"
+        android:scrollbars="vertical" />
+
+    <!-- Button -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="35dp"
+        android:elevation="2dp"
+        app:srcCompat="@android:drawable/ic_input_add"
+        android:backgroundTint="@color/basic"
+        app:tint="@android:color/white"/>
+
+</RelativeLayout>

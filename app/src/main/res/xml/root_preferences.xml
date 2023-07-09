@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <Preference
+            app:key="administrators"
+            app:title="@string/edit_users"
+            app:summary="@string/configure_admin_settings"/>
+
+    <PreferenceCategory app:title="@string/employees">
+
+    <Preference
+        app:key="movies"
+        app:title="@string/movies_section"
+        app:summary="@string/configure_the_movies_section"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="ticket_types">
+        <item>Adult</item>
+        <item>Student</item>
+        <item>Kid (under 12)</item>
+    </string-array>
+</resources>

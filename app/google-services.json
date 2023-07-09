@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576790832840",
+    "project_id": "ergasia-texnologias-logismikou",
+    "storage_bucket": "ergasia-texnologias-logismikou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576790832840:android:688d4aa011f73aa47467fd",
+        "android_client_info": {
+          "package_name": "com.example.cinemabookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576790832840-0vej06dken8den6qirp7k7aag1tj7huo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-L89kNr4qM_gQ_cQrm0ZoZvz6ZVtj1RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576790832840-0vej06dken8den6qirp7k7aag1tj7huo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
