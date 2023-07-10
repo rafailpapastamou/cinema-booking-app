@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="realtimeDatabase_url" translatable="false">https://ergasia-texnologias-logismikou-default-rtdb.europe-west1.firebasedatabase.app/</string>
+    <string name="emailUsername" translatable="false">tickets.cinema.project@gmail.com</string>
+    <string name="emailPassword" translatable="false">sdzerinaperbnlky</string>
+</resources>
