@@ -69,7 +69,7 @@ git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://git
 
 ### APK Download
 If you prefer not to set up your own database, you can download the APK file to experience the app as I have created it. Click the button below to download the APK file.
-[Download APK](app/release/app-release.apk)
+[Download APK](https://github.com/rafailpapastamou/cinema-booking-app/raw/main/app/release/app-release.apk)
 
 ### Note: Database Configuration
 
