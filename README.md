@@ -1,15 +1,17 @@
 # Cinemabookingapp
 
-Cinemabookingapp is an Android application that allows users to book movie tickets and manage their reservations.
+Cinemabookingapp is an Android application designed for a small cinema, providing customers with the ability to view the current movie lineup, book tickets and receive the ticket confirmation via their email address. Additionally, the app offers employees the capability to efficiently manage the movie list and related information. This application is developed as a university project for a software engineering class.
 
 ## Features
 
 - User registration and authentication
-- Browse and search for movies
-- Book movie tickets
-- View and manage reservations
-- QR code generation for tickets
-- Scan and validate tickets using QR code
+- 3 user types (User, Employee, Admin)
+- Browse for movies
+- Convenient movie ticket booking
+- Ticket sent to the customer's email address
+- Employees have access to sold ticket information for each movie
+- Employees can manage the movie list
+- Administrative control over user types, including adding or removing employees
 
 ## Screenshots
 
@@ -55,7 +57,7 @@ These instructions will help you get a copy of the project up and running on you
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/cinemabookingapp.git
+git clone [https://github.com/your-username/cinemabookingapp.git](https://github.com/rafailpapastamou/cinema-booking-app.git)
 
 2. Open the project in Android Studio.
 
@@ -77,8 +79,3 @@ Contributions are welcome! If you find any issues or want to add new features, f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- [Open-source libraries or resources you used in your project]
-- [Any other acknowledgments]
