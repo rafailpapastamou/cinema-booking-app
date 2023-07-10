@@ -51,7 +51,7 @@ The Admin Settings Activity provides access to a range of administrative setting
 
 ## Getting Started
 
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. You can also download the APK file to explore the app without setting up your own database.
 
 ### Prerequisites
 
@@ -66,6 +66,10 @@ git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://git
 2. Open the project in Android Studio.
 
 3. Build and run the app on an emulator or a physical device.
+
+### APK Download
+If you prefer not to set up your own database, you can download the APK file to experience the app as I have created it. Click the button below to download the APK file.
+[![Download APK](https://github.com/rafailpapastamou/cinema-booking-app/blob/main/app/release/app-release.apk)](app/release/app-release.apk)
 
 ### Note: Database Configuration
 
