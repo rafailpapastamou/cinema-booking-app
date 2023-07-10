@@ -66,6 +66,17 @@ git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://git
 
 3. Build and run the app on an emulator or a physical device.
 
+## Note: Database Configuration
+
+This project requires a database for storing and retrieving data. To set up the database for the application, please follow these steps:
+
+1) Create a new database instance or use an existing one.
+2) Obtain the necessary database credentials, including the host address, port number, username, and password.
+3) Open the config.xml file located in app/src/main/res/values/.
+4) Update the database configuration values in the config.xml file with your own database credentials.
+
+By following these steps, you can configure the application to use your own database and ensure the proper functioning of the app. Please note that the config.xml file is not included in the repository for security reasons, and you need to provide your own database credentials.
+
 ## Technologies Used
 
 - Android
