@@ -13,20 +13,23 @@ Cinemabookingapp is an Android application that allows users to book movie ticke
 
 ## Screenshots
 
+The Welcome Activity and the Register Activity. The Login Activity is not shown here.
 <div style="display: flex; justify-content: space-between;">
-  Welcome Activity and Register Activity. Login Activity not shown here.
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Welcome%20Activity.jpg" width="200">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Register%20Activity.jpg" width="200">
 </div>
 
+The Main Activity and the Navigation Drawer which is accessible from every activity.
 <div style="display: flex; justify-content: space-between;">
-  The Main Activity and the Navigation Drawer which is accessible from every activity.
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Main%20Activity.jpg" width="200">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Navigation%20Drawer.jpg" width="200">
-  
 </div>
 
-<img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Activity.jpg" width="200">
+The Movies Activity and the Seat Selection Activity.
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Activity.jpg" width="200">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Seat%20Selection%20Activity.jpg" width="200">
+</div>
 
 
 ## Getting Started
