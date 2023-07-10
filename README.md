@@ -66,7 +66,7 @@ git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://git
 
 3. Build and run the app on an emulator or a physical device.
 
-## Note: Database Configuration
+### Note: Database Configuration
 
 This project requires a database for storing and retrieving data. To set up the database for the application, please follow these steps:
 
