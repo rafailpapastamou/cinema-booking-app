@@ -5,13 +5,14 @@ CinemaBookingApp is an Android application designed for a small cinema, providin
 ## Features
 
 - User registration and authentication
-- 3 user types (User, Employee, Admin)
-- Browse for movies
-- Convenient movie ticket booking
-- Ticket sent to the customer's email address
-- Employees have access to sold ticket information for each movie
-- Employees can manage the movie list
-- Administrative control over user types, including adding or removing employees
+- Three user types: User, Employee, Admin
+- Browse and search for movies
+- Convenient movie ticket booking process
+- Automatic ticket delivery to the customer's email address
+- Employees have access to detailed customer information for each movie reservation
+- Efficient management of the movie list by employees
+- Administrative control over user types, including employee management
+- Multi-language support: English and Greek
 
 ## Screenshots
 
