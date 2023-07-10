@@ -27,7 +27,7 @@ The Main Activity and the Navigation Drawer which is accessible from every activ
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Navigation%20Drawer.jpg" width="250">
 </div>
 <br>
-Movies Activity, Seat Selection Activity, Booking Information Actiivity, Payment Activity and Successful  Payment Activity.
+Movies Activity, Seat Selection Activity, Booking Information Activity, Payment Activity and Successful  Payment Activity.
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Activity.jpg" width="250">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Seat%20Selection%20Activity.jpg" width="250">
@@ -36,9 +36,9 @@ Movies Activity, Seat Selection Activity, Booking Information Actiivity, Payment
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Successful%20Payment%20Activity.jpg" width="250">  
 </div>
 <br>
-The Admin Settings Activity provides access to a range of administrative settings within the application. It enables administrators to manage user accounts and employees to configure movie-related settings.
-The Edit Users Activity allows administrators to manage user roles.
-The Movies Section Settings Activity offers administrators the ability to manage the movie list, including adding new movies and removing movies from the list.
+The Admin Settings Activity provides access to a range of administrative settings within the application. It enables administrators to manage user accounts and employees to configure movie-related settings.<br>
+The Edit Users Activity allows administrators to manage user roles.<br>
+The Movies Section Settings Activity offers administrators the ability to manage the movie list, including adding new movies and removing movies from the list.<br>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Admin%20Settings%20Activity.jpg" width="250">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Edit%20Users%20Activity.jpg" width="250">
