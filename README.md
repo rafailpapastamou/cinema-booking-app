@@ -48,7 +48,6 @@ The Admin Settings Activity provides access to a range of administrative setting
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Remove%20a%20Movie%20or%20See%20Sold%20Tickets%20Options.jpg" width="30%">
 </div>
 
-
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes. You can also download the APK file to explore the app without setting up your own database.
@@ -67,10 +66,6 @@ git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://git
 
 3. Build and run the app on an emulator or a physical device.
 
-### APK Download
-If you prefer not to set up your own database, you can download the APK file to experience the app as I have created it. Click the button below to download the APK file.
-[Download APK](https://github.com/rafailpapastamou/cinema-booking-app/raw/main/app/release/app-release.apk)
-
 ### Note: Database Configuration
 
 This project requires a database for storing and retrieving data. To set up the database for the application, please follow these steps:
@@ -82,6 +77,10 @@ This project requires a database for storing and retrieving data. To set up the 
 6) Rename the config.xml.template to config.xml.
 
 By following these steps, you can configure the application to use your own database and ensure the proper functioning of the app. Please note that the config.xml file is not included in the repository for security reasons, and you need to provide your own database credentials.
+
+### APK Download
+If you prefer not to set up your own database, you can download the APK file to experience the app as I have created it. Click the button below to download the APK file.
+[Download APK](https://github.com/rafailpapastamou/cinema-booking-app/raw/main/app/release/app-release.apk)
 
 ## Technologies Used
 
