@@ -14,10 +14,10 @@ Cinemabookingapp is an Android application that allows users to book movie ticke
 ## Screenshots
 
 Here are some screenshots of the application:
-![Welcome Activity](https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Welcome%20Activity.jpg)
-![Register Activity](https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Register%20Activity.jpg)
-![Main Activity](https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Main%20Activity.jpg)
-![Movies Activity](https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Activity.jpg)
+<img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Welcome%20Activity.jpg" width="400">
+<img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Register%20Activity.jpg" width="400">
+<img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Main%20Activity.jpg" width="400">
+<img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Activity.jpg" width="400">
 
 
 ## Getting Started
