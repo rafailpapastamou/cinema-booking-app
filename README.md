@@ -20,15 +20,13 @@ The Welcome Activity and the Register Activity. The Login Activity is not shown 
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Welcome%20Activity.jpg" width="250">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Register%20Activity.jpg" width="250">
 </div>
-
-
+<br>
 The Main Activity and the Navigation Drawer which is accessible from every activity.
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Main%20Activity.jpg" width="250">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Navigation%20Drawer.jpg" width="250">
 </div>
-
-
+<br>
 Movies Activity, Seat Selection Activity, Booking Information Actiivity, Payment Activity and Successful  Payment Activity.
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Activity.jpg" width="250">
@@ -37,9 +35,7 @@ Movies Activity, Seat Selection Activity, Booking Information Actiivity, Payment
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Payment%20Activity.jpg" width="250">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Successful%20Payment%20Activity.jpg" width="250">  
 </div>
-
-
-
+<br>
 The Admin Settings Activity provides access to a range of administrative settings within the application. It enables administrators to manage user accounts and employees to configure movie-related settings.
 
 The Edit Users Activity allows administrators to manage user roles.
