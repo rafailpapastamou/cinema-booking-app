@@ -79,7 +79,7 @@ This project requires a database for storing and retrieving data. To set up the 
 By following these steps, you can configure the application to use your own database and ensure the proper functioning of the app. Please note that the config.xml file is not included in the repository for security reasons, and you need to provide your own database credentials.
 
 ### APK Download
-If you prefer not to set up your own database, you can download the APK file to experience the app as I have created it. Click the button below to download the APK file.<br>
+If you prefer not to set up your own database, you can download the APK file to experience the app as I have created it. Click the link below to see the app releases and download the APK file.<br>
 [App Releases](https://github.com/rafailpapastamou/cinema-booking-app/releases)
 
 ## Technologies Used
