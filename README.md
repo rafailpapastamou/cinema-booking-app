@@ -16,7 +16,7 @@ CinemaBookingApp is an Android application designed for a small cinema, providin
 ## Screenshots
 
 The Welcome Activity and the Register Activity. The Login Activity is not shown here.
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Welcome%20Activity.jpg" width="250">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Register%20Activity.jpg" width="250">
 </div>
