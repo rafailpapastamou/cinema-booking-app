@@ -75,10 +75,6 @@ git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://git
 - Firebase Cloud Firestore
 - Firebase Storage
 
-## Contributing
-
-Contributions are welcome! If you find any issues or want to add new features, feel free to submit a pull request.
-
 ## Future Enhancements
 
 - Ticket Booking History: I would like to implement a feature that allows customers to view their past ticket bookings, providing them with a convenient way to track their movie-going history.
@@ -86,3 +82,7 @@ Contributions are welcome! If you find any issues or want to add new features, f
 - Booking Modification: I intend to introduce a functionality that allows customers to modify their bookings. This will include options such as changing seats or adding more tickets to an existing booking, providing greater flexibility and convenience to the customers.
 
 These planned enhancements will further enhance the usability and functionality of the application, providing an improved experience for both customers and employees.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to add new features, feel free to submit a pull request.
