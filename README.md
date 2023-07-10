@@ -1,6 +1,6 @@
-# Cinemabookingapp
+# CinemaBookingApp
 
-Cinemabookingapp is an Android application designed for a small cinema, providing customers with the ability to view the current movie lineup, book tickets and receive the ticket confirmation via their email address. Additionally, the app offers employees the capability to efficiently manage the movie list and related information. This application is developed as a university project for a software engineering class.
+CinemaBookingApp is an Android application designed for a small cinema, providing customers with the ability to view the current movie lineup, book tickets and receive the ticket confirmation via their email address. Additionally, the app offers employees the capability to efficiently manage the movie list and related information. This application is developed as a university project for a software engineering class.
 
 ## Features
 
@@ -16,7 +16,7 @@ Cinemabookingapp is an Android application designed for a small cinema, providin
 ## Screenshots
 
 The Welcome Activity and the Register Activity. The Login Activity is not shown here.
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Welcome%20Activity.jpg" width="250">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Register%20Activity.jpg" width="250">
 </div>
