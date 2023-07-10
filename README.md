@@ -39,7 +39,7 @@ Movies Activity, Seat Selection Activity, Booking Information Activity, Payment 
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Successful%20Payment%20Activity.jpg" width="30%">  
 </div>
 <br>
-The Admin Settings Activity provides access to a range of administrative settings within the application. It enables administrators to manage user accounts and employees to configure movie-related settings.<br>
+The Admin Settings Activity enables administrators to manage user accounts and employees to configure movie-related settings.<br>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Admin%20Settings%20Activity.jpg" width="30%">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Edit%20Users%20Activity.jpg" width="30%">
