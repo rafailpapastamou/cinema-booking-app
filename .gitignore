@@ -13,4 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-app/src/main/res/values/config.xml # This is where the database and email info are stored
