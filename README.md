@@ -74,6 +74,7 @@ git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://git
 - Firebase Realtime Database
 - Firebase Cloud Firestore
 - Firebase Storage
+- JavaMail API
 
 ## Future Enhancements
 
