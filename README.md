@@ -60,7 +60,7 @@ These instructions will help you get a copy of the project up and running on you
 ### Installation
 
 1. Clone the repository:
-git clone [https://github.com/your-username/cinemabookingapp.git](https://github.com/rafailpapastamou/cinema-booking-app.git)
+git clone [https://github.com/rafailpapastamou/cinemabookingapp.git](https://github.com/rafailpapastamou/cinema-booking-app.git)
 
 2. Open the project in Android Studio.
 
@@ -79,6 +79,10 @@ git clone [https://github.com/your-username/cinemabookingapp.git](https://github
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to submit a pull request.
 
-## License
+## Future Enhancements
 
-This project is licensed under the [MIT License](LICENSE).
+- Ticket Booking History: I would like to implement a feature that allows customers to view their past ticket bookings, providing them with a convenient way to track their movie-going history.
+- Movie Details Editing: Currently, employees need to remove a movie and add a new one to update movie details. To improve efficiency, I aim to develop a functionality that enables employees to edit existing movie details directly, avoiding the need for redundant actions.
+- Booking Modification: I intend to introduce a functionality that allows customers to modify their bookings. This will include options such as changing seats or adding more tickets to an existing booking, providing greater flexibility and convenience to the customers.
+
+These planned enhancements will further enhance the usability and functionality of the application, providing an improved experience for both customers and employees.
