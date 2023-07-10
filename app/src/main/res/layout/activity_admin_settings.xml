@@ -36,22 +36,6 @@
         android:layout_below="@id/tvEmployees"
         android:scrollbars="vertical" />
 
-    <!-- List of users -->
-    <TextView
-        android:id="@+id/tvUsers"
-        android:text="@string/users"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/lvEmployees"
-        android:gravity="center" />
-
-    <ListView
-        android:id="@+id/lvUsers"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/tvUsers"
-        android:scrollbars="vertical" />
-
     <!-- Button -->
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/floatButton"

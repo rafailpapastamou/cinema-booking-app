@@ -20,7 +20,6 @@ class AdminSettings : BaseActivity() {
     private lateinit var user: FirebaseUser
     private lateinit var lvEmployees: ListView
     private lateinit var lvAdmins: ListView
-    private lateinit var lvUsers: ListView
     private lateinit var floatButton: FloatingActionButton
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -65,7 +64,6 @@ class AdminSettings : BaseActivity() {
 
         lvEmployees = findViewById(R.id.lvEmployees)
         lvAdmins = findViewById(R.id.lvAdmins)
-        lvUsers = findViewById(R.id.lvUsers)
 
         val adminsList = mutableListOf<String>()
         val employeesList = mutableListOf<String>()
@@ -102,21 +100,6 @@ class AdminSettings : BaseActivity() {
             override fun onCancelled(databaseError: DatabaseError) {}
         })
 
-        // Retrieve the list of users
-        usersRef.orderByChild("userType").equalTo("user").addValueEventListener(object : ValueEventListener {
-            override fun onDataChange(dataSnapshot: DataSnapshot) {
-                for (childSnapshot in dataSnapshot.children) {
-                    val email = childSnapshot.child("email").value as String
-                    usersList.add(email)
-                }
-                // Create the adapter for the users ListView
-                val usersAdapter = ArrayAdapter<String>(this@AdminSettings, android.R.layout.simple_list_item_1, usersList)
-                lvUsers.adapter = usersAdapter
-            }
-
-            override fun onCancelled(databaseError: DatabaseError) {}
-        })
-
         // Create the adapter for the admins ListView
         val adminsAdapter = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, adminsList)
         lvAdmins.adapter = adminsAdapter
@@ -124,11 +107,6 @@ class AdminSettings : BaseActivity() {
         // Create the adapter for the employees ListView
         val employeesAdapter = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, employeesList)
         lvEmployees.adapter = employeesAdapter
-
-        // Create the adapter for the users ListView
-        val usersAdapter = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, usersList)
-        lvUsers.adapter = usersAdapter
-
 
         // Gia to floating button
         floatButton = findViewById(R.id.floatButton)
