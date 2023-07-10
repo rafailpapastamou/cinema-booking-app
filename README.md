@@ -41,6 +41,7 @@ Admin Settings Activity, Edit Users Activity, and the Movies Section Settings Ac
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Admin%20Settings%20Activity.jpg" width="200">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Edit%20Users%20Activity.jpg" width="200">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Section%20Setting.jpg" width="200">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Add%20a%20New%20Movie%20Setting.jpg" width="200">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Remove%20a%20Movie%20or%20See%20Sold%20Tickets%20Options.jpg" width="200">
 </div>
 
