@@ -25,10 +25,21 @@ The Main Activity and the Navigation Drawer which is accessible from every activ
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Navigation%20Drawer.jpg" width="200">
 </div>
 
-The Movies Activity and the Seat Selection Activity.
+Movies Activity, Seat Selection Activity, Booking Information Actiivity, Payment Activity and Successful  Payment Activity.
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Activity.jpg" width="200">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Seat%20Selection%20Activity.jpg" width="200">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Booking%20Information%20Activity.jpg" width="200">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Payment%20Activity.jpg" width="200">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Successful%20Payment%20Activity.jpg" width="200">  
+</div>
+
+Admin Settings Activity, Edit Users Activity, and the Movies Section Settings Activity
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Admin%20Settings%20Activity.jpg" width="200">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Edit%20Users%20Activity.jpg" width="200">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Movies%20Section%20Setting.jpg" width="200">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Remove%20a%20Movie%20or%20See%20Sold%20Tickets%20Options.jpg" width="200">
 </div>
 
 
