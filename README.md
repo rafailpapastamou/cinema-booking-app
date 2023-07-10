@@ -80,7 +80,7 @@ By following these steps, you can configure the application to use your own data
 
 ### APK Download
 If you prefer not to set up your own database, you can download the APK file to experience the app as I have created it. Click the button below to download the APK file.<br>
-[App Releases]([https://github.com/rafailpapastamou/cinema-booking-app/raw/main/app/release/app-release.apk](https://github.com/rafailpapastamou/cinema-booking-app/releases))
+[App Releases](https://github.com/rafailpapastamou/cinema-booking-app/releases)
 
 ## Technologies Used
 
