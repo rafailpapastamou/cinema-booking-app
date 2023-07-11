@@ -24,10 +24,10 @@ The Welcome, Register and Login activities.
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Login%20Activity.jpg" width="30%">
 </div>
 <br>
-The Main Activity and the Navigation Drawer which is accessible from every activity.
+The Navigation Drawer which is accessible from every activity and the Main Activity.
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Main%20Activity.jpg" width="30%">
   <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Navigation%20Drawer.jpg" width="30%">
+  <img src="https://github.com/rafailpapastamou/cinema-booking-app/blob/main/Screenshots/Main%20Activity.jpg" width="30%">
 </div>
 <br>
 Movies Activity, Seat Selection Activity, Booking Information Activity, Payment Activity and Successful  Payment Activity.
