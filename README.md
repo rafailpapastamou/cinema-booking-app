@@ -72,9 +72,9 @@ This project requires a database for storing and retrieving data. To set up the 
 
 1) Create a new database instance or use an existing one.
 2) Obtain the necessary database credentials.
-3) Open the config.xml.template file located in app/src/main/res/values/.
-5) Update the database configuration values in the config.xml.template file with your own database credentials.
-6) Rename the config.xml.template to config.xml.
+3) Open the config_template.xml file located in app/src/main/res/values/.
+5) Update the database configuration values in the config_template.xml file with your own database credentials and remove the comments to make it work.
+6) Rename the config_template.xml to config.xml if you wish.
 
 By following these steps, you can configure the application to use your own database and ensure the proper functioning of the app. Please note that the config.xml file is not included in the repository for security reasons, and you need to provide your own database credentials.
 
